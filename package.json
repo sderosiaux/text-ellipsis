@@ -2,7 +2,7 @@
   "name": "text-ellipsis",
   "version": "1.0.1",
   "description": "Cut a string if too long",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib dist",
     "build": "babel index.js --out-dir lib",
