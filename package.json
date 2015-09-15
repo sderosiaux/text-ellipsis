@@ -1,6 +1,6 @@
 {
   "name": "text-ellipsis",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cut a string if too long",
   "main": "lib/index.js",
   "scripts": {
