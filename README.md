@@ -1,5 +1,5 @@
-# text-ellipsis
-> Cut a string if too long
+# text-ellipsis [![Build Status](https://travis-ci.org/chtefi/text-ellipsis.svg)](https://travis-ci.org/chtefi/text-ellipsis)
+> Cut off a string if too long
 
 ## Why
 
