@@ -3,7 +3,7 @@
 
 ## Why
 
-You always want to cut long strings.
+You always want to cut off long strings.
 
 ## Install
 
